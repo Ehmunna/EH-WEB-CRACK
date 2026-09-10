@@ -9,7 +9,8 @@ apt install python -y
 apt install git -y
 git clone https://github.com/Ehmunna/EH-WEB-CRACK.git
 cd EH-WEB-CRACK
-python eh
-
+python eh_web_crack.py
 
 ```
+## Capture source 
+next exit your terminal and again open terminal
