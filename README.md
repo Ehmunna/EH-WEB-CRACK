@@ -17,6 +17,7 @@ terget website url past and attack next exit your terminal and again open termin
 ```
 ls
 cd EH-WEB-CRACK
+ls
 cp -r filename ~/storage/shared
 ```
 Check your file 
