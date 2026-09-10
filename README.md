@@ -7,10 +7,16 @@ apt update -y
 apt upgrade -y
 apt install python -y
 apt install git -y
+termux-setup-storage
 git clone https://github.com/Ehmunna/EH-WEB-CRACK.git
 cd EH-WEB-CRACK
 python eh_web_crack.py
-
 ```
 ## Capture source 
-next exit your terminal and again open terminal
+terget website url past and attack next exit your terminal and again open terminal
+```
+ls
+cd EH-WEB-CRACK
+cp -r filename ~/storage/shared
+```
+Check your file 
